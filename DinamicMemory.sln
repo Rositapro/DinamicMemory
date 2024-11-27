@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinamicMemory", "DinamicMemory\DinamicMemory.csproj", "{99DB39BD-ACCC-46BF-A664-6422C098BAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DB39BD-ACCC-46BF-A664-6422C098BAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DB39BD-ACCC-46BF-A664-6422C098BAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DB39BD-ACCC-46BF-A664-6422C098BAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DB39BD-ACCC-46BF-A664-6422C098BAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00385D3B-3127-4B40-9A2E-832763D91CA6}
+	EndGlobalSection
+EndGlobal
